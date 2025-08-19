@@ -1,5 +1,6 @@
 # PadZahr  A Simple Realtime AntiVirus
 
+![app-pic](https://github.com/user-attachments/assets/512209f9-5dd2-4fda-b067-e52e60953625)
 
 # About this program
 
