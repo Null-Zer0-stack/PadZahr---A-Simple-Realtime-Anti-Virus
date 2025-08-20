@@ -5,7 +5,7 @@
 # About this program
 
 
-This is a simple real-time antivirus like which block and close softwares if program be able to detect malicious executable. this program is under early stage of development and have limited capability(right now) so if you are intend to use it as your main anti virus ,  it is nice to use it ONLY as second layer of protection !
+This is a simple real-time antivirus-like which block and close softwares if program be able to detect malicious executable. this program is under early stage of development and have limited capability(right now) so if you are intend to use it as your main anti virus ,  it is nice to use it ONLY as second layer of protection !
 
 ## What are the capabilities?
 
