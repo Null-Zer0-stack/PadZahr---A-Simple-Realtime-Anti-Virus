@@ -9,7 +9,7 @@ This is a simple real-time antivirus-like which block and close softwares if pro
 
 ## What are the capabilities?
 
- - Detect Automatically and terminate them if specified executable file was found. (still have small checklist for known viruses but incereasing by every update!)
+ - Detect Automatically and terminate them if specified executable file was found. ( still have small checklist for known viruses but incereasing by every update! )
  - Show list of all running programs.
  - Search bar for terminating manually.
 
