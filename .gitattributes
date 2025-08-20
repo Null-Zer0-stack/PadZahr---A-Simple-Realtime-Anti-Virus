@@ -2,3 +2,4 @@
 *.h linguist-language=C++
 
 *.js linguist-generated
+*.css linguist-generated
